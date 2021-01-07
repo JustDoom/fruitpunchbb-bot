@@ -1,0 +1,22 @@
+{
+  "name": "fruitpunchbb-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustDoom/fruitpunchbb-bot.git"
+  },
+  "author": "JustDoom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustDoom/fruitpunchbb-bot/issues"
+  },
+  "homepage": "https://github.com/JustDoom/fruitpunchbb-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
